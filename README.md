@@ -139,7 +139,7 @@ android {
 
 #### shell脚本
 
-各个版本打包完成后，可以直接执行工程下shell脚本`uplaod.sh`，命令:`sh upload.sh` ,参数`_api_key`请进入自己账户查看替换。如果结合`jenkins`等自动构建工具 效果更佳。实际开发中只需关注代码即可。
+各个版本打包完成后，可以直接执行工程下shell脚本`uplaod.sh`，命令:`sh upload.sh` ,参数`_api_key`请进入自己账户查看替换。如果结合`jenkins`等自动构建工具 效果更佳。
 
 提交代码 -> jenkins监控代码更新 -> 构建不同版本apk -> 构建完成执行脚本上传蒲公英平台
 
