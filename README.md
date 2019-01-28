@@ -103,6 +103,7 @@ android {
 ![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/20190128162617.png)
 
 运行后：
+
 <img src="https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/device-2019-01-28-161918.png" width="40%" height="40%">
 
 
