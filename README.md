@@ -100,11 +100,11 @@ android {
 
 在Build Varants中选择要运行的构建变体的类型（如下图），点击run就可以啦。
 
-![](screenshot\20190128162617.png)
+![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/20190128162617.png)
 
 运行后：
 
-![](screenshot\device-2019-01-28-161918.png)
+![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/device-2019-01-28-161918.png)
 
 
 #### 实际效果
@@ -113,7 +113,7 @@ android {
 
 |                   生产环境                   | uat环境 | 测试环境 |
 | :------------------------------------------: | :-----: | :------: |
-| ![](screenshot\device-2019-01-28-161946.png)|![](screenshot\device-2019-01-28-162015.png)|![](screenshot\device-2019-01-28-161959.png)|
+| ![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/device-2019-01-28-161946.png)|![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/device-2019-01-28-162015.png)|![](https://raw.githubusercontent.com/zhouhaoo/flavors/master/screenshot/device-2019-01-28-161959.png)|
 
 ### 蒲公英上传
 
