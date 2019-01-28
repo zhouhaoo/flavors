@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="app_name_uat">sample_uat</string>
+    <string name="app_name_beta">sample_beta</string>
+</resources>
