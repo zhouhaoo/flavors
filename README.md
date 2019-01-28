@@ -1,3 +1,6 @@
+## README
+blog地址：[www.zhouhaoh.com](https://www.zhouhaoh.com/2019/01/26/Gradle%E5%A4%9A%E7%89%88%E6%9C%AC%E6%9E%84%E5%BB%BA/)
+
 ### productFlavors配置
 
 起因是项目有个多环境切换的需求，多个baseUrl的环境，测试确实不方便，需要来回卸载安装。开发也要改环境运行。所以才有了以下配置。
